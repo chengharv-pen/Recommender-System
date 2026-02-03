@@ -1,5 +1,7 @@
 # Big Data Analytics - E-Commerce Recommender System & Association Rule Mining
 
+[Google Colab link](https://colab.research.google.com/github/chengharv-pen/Recommender-System/blob/main/project_notebook.ipynb)
+
 ## Installation & Dependencies
 Ensure you have Python installed, then install the required packages:
 ```sh
